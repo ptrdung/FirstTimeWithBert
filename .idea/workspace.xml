@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a08886e5-47c7-4966-807c-baf3701704d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/FirstTimeWithBert.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BertEncoderDecoder.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="a08886e5-47c7-4966-807c-baf3701704d5" name="Changes" comment="firstcommit">
+      <change beforePath="$PROJECT_DIR$/BertEncoderDecoder.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BertEncoderDecoder.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,11 +87,25 @@
       <updated>1701970449687</updated>
       <workItem from="1701970465351" duration="827000" />
       <workItem from="1702009630866" duration="2695000" />
+      <workItem from="1702013741249" duration="313000" />
     </task>
+    <task id="LOCAL-00001" summary="firstcommit">
+      <option name="closed" value="true" />
+      <created>1702013897092</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702013897092</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="firstcommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="firstcommit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
