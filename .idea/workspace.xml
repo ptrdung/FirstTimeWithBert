@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a08886e5-47c7-4966-807c-baf3701704d5" name="Changes" comment="firstcommit">
-      <change beforePath="$PROJECT_DIR$/BertEncoderDecoder.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BertEncoderDecoder.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="a08886e5-47c7-4966-807c-baf3701704d5" name="Changes" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +19,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ptrdung"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="355dc759-039d-4438-a713-ae5f0824892c" />
+        <option name="url" value="https://github.com/ptrdung/FirstTimeWithBert" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
